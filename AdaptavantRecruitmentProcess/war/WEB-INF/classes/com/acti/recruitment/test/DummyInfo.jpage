@@ -1,0 +1,134 @@
+100003527051428?fields=id,name,birthday,email,first_name,last_name,link,gender,work,picture,education,location,hometown
+========================================================
+{
+	  "id": "100003527051428",
+	  "name": "Lambodar Swain",
+	  "birthday": "05/01/1990",
+	  "first_name": "Lambodar",
+	  "last_name": "Swain",
+	  "email": "suport.lambodar@gmail.com",
+	  "link": "http://www.facebook.com/lambodar.swain.1",
+	  "gender": "female",
+	  -------------------------------------------
+	  "location": {
+	    "id": "105988062765295",
+	    "name": "Sacramento, California"
+	  },
+	  -----------------------------------------------
+	  "hometown": {
+	    "id": "106517799384578",
+	    "name": "New Delhi, India"
+	  },
+	  ------------------------------------
+	  "education": [
+	    {
+	      "school": {
+	        "id": "161034684040458",
+	        "name": "stiwardes"
+	      },
+	      "type": "High School"
+	    },
+	    {
+	      "school": {
+	        "id": "108675365830671",
+	        "name": "IIT Delhi"
+	      },
+	      "year": {
+	        "id": "141778012509913",
+	        "name": "2008"
+	      },
+	      "type": "College"
+	    },
+	    {
+	      "school": {
+	        "id": "107770295919354",
+	        "name": "St. Joseph High School"
+	      },
+	      "type": "College"
+	    }
+	  ],
+	-------------------------------------------  
+	  "work": [
+	    {
+	      "employer": {
+	        "id": "110331765661622",
+	        "name": "Google"
+	      },
+	      "location": {
+	        "id": "106282486076109",
+	        "name": "Bengaluru"
+	      },
+	      "position": {
+	        "id": "110265725662722",
+	        "name": "Senior Software Engineer"
+	      },
+	      "start_date": "0000-00"
+	    },
+	    {
+	      "employer": {
+	        "id": "111926488822704",
+	        "name": "Freelancer"
+	      },
+	      "location": {
+	        "id": "106517799384578",
+	        "name": "New Delhi, India"
+	      },
+	      "position": {
+	        "id": "385013991576942",
+	        "name": "Freelancer software devloper"
+	      },
+	      "start_date": "0000-00",
+	      "end_date": "0000-00"
+	    }
+	  ],
+	  ------------------------------------------------
+	  "picture": {
+	    "data": {
+	      "url": "http://profile.ak.fbcdn.net/hprofile-ak-snc7/371755_100003527051428_2144938221_q.jpg",
+	      "is_silhouette": false
+	    }
+	  }
+	}
+
+========================================================
+
+
+
+
+import="com.acti.recruitment.dto.UserDetails, java.util.List"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
